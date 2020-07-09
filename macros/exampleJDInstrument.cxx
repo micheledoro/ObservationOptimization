@@ -8,6 +8,7 @@
  *
  *
  *  		 This is a tutorial on the main features of the class JDInstrument
+ * --> ADD DESCRIPTION OF WHAT SCRIPT DOES
  */
 
 #include <Rtypes.h>
@@ -31,7 +32,7 @@
 using namespace std;
 
 // General path
-TString myInstrumentPath = "/home/jpalacio/Work/eclipse/workspace/pic/DarkMatter/ObservationOptimization";
+TString myInstrumentPath = "./";
 
 
 //-------------------------------------
